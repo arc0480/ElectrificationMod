@@ -1,0 +1,12 @@
+name: "ElectrificationMod"
+author: 
+'''
+ [orange[]]arc
+ [blue[]]hikaritake  
+ [green[]]LineOpenChat:Mindustry
+'''
+displayName: "ElectrificationMod"
+description: "."
+version: "0.1"
+minGameVersion: 145.1
+hidden: false
