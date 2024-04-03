@@ -3,8 +3,8 @@ speed: 30
 capacity: 5
 update: true
 solid: true
-group	transportation
-unloadable	false
+group: transportation
+unloadable: false
 hasPower: true
 consume: {
   power: 3
